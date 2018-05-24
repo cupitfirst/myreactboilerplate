@@ -17,3 +17,4 @@ This thing is the bomb dot com
 
 ## dev add a new line 
 
+## issues 404 fix
